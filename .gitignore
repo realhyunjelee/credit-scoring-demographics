@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+# Download source data separately from the credited UCI repository
+*.xls
+*.xlsx
+credit_data_from_original.csv
